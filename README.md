@@ -1,4 +1,4 @@
-# simple banking website-JAYVIR
+# simple banking system-JAYVIR
 THIS IS A EAMPLE OF A BANK  WEBSITE IN WHICH YOUCAN CHECK YOUR BALANCE , DEPOSIT MONEY, WITHDRAW MONEY AND 
 #include <stdio.h>
 #include <stdlib.h>
